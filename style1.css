@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.t1{
+    background-color: rgb(0, 0, 0);
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+}
+.l1{
+    color: white;
+    padding: 0px 16px;
+}
+.l1{
+    color: white;
+    padding: 0px 16px;
+}
+.t1 ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+}
+.t1 ul li{
+    padding: 10px 30px;
+}
+.t1 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.t1 ul li a:hover{
+    color: #3498db;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+   background-color: #eae7e7;
+}
+th{
+    background-color: green;
+}
+.b1{
+    font-size: 15px;
+    padding: 5px 10px;
+    background-color: green;
+    color: white;
+    border: none;
+}
+.b2{
+    font-size: 15px;
+    padding: 5px 10px;
+    background-color: rgb(198, 7, 29);
+    color: white;
+    border: none;
+}
+.main {
+    margin-top: 2%;
+    margin-left: 25%;
+    font-size: 28px;
+    padding: 0 10px;
+    width: 58%;
+}
+
+.main h2 {
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.main .card {
+    background-color: #fff;
+    border-radius: 18px;
+    box-shadow: 1px 1px 8px 0 grey;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 20px 0 20px 5px;
+}
+
+.main .card table {
+    border: none;
+    font-size: 16px;
+    height: 270px;
+    width: 100%;
+}
+
