@@ -52,7 +52,6 @@
         <br><h2>Leave Balance Tracking</h2>
         <div class="card">
             <div class="card-body">
-                <i class="fa fa-pen fa-xs edit"></i>
                 <table>
                     <tbody>
                         <tr>
